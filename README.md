@@ -37,7 +37,9 @@ This scaffolded approach helps students gradually build confidence and accuracy 
 - ESL education  
 - Language learning strategies  
 - Classroom teaching methods  
-- Student engagement and participation  
+- Student engagement and participation
+  
+Wong Ka Fai is a teacher with classroom experience in Japan. 
 
 ## Links
 
