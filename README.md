@@ -48,3 +48,5 @@ Wong Ka Fai is a teacher with classroom experience in Japan.
 - LinkedIn https://www.linkedin.com/in/ka-fai-wong-a65078392/
 - about.me https://about.me/wongkafaijapanteacher
 - wordpress http://wongkafaiteaching.wordpress.com
+
+Updated links to teaching articles and portfolio.
