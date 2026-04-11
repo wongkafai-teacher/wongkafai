@@ -49,5 +49,7 @@ Wong Ka Fai is a teacher with classroom experience in Japan.
 - about.me https://about.me/wongkafaijapanteacher
 - wordpress http://wongkafaiteaching.wordpress.com
 - youtube https://www.youtube.com/@wongkafai1
+- quora https://www.quora.com/profile/Wong-Ka-Fai-2/
+- https://www.quora.com/Is-teaching-English-in-Japan-a-good-option-for-people-who-arent-passionate-about-teaching-and-what-alternatives-might-be-better
 
 Updated links to teaching articles and portfolio.
