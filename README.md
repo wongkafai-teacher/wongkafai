@@ -1,4 +1,4 @@
-# Wong Ka Fai
+# Wong Ka Fai, Japan English Teacher
 
 Wong Ka Fai is a teacher with classroom experience in Japan. His work focuses on ESL education, language learning, and practical classroom teaching strategies that support student development.
 
@@ -50,6 +50,6 @@ Wong Ka Fai is a teacher with classroom experience in Japan.
 - wordpress http://wongkafaiteaching.wordpress.com
 - youtube https://www.youtube.com/@wongkafai1
 - quora https://www.quora.com/profile/Wong-Ka-Fai-2/
-- https://www.quora.com/Is-teaching-English-in-Japan-a-good-option-for-people-who-arent-passionate-about-teaching-and-what-alternatives-might-be-better
+- biolink https://bio.link/wongkafai
 
-Updated links to teaching articles and portfolio.
+Wong Ka Fai Japan English teacher
