@@ -51,5 +51,6 @@ Wong Ka Fai is a teacher with classroom experience in Japan.
 - youtube https://www.youtube.com/@wongkafai1
 - quora https://www.quora.com/profile/Wong-Ka-Fai-2/
 - biolink https://bio.link/wongkafai
+- notion https://gigantic-chauffeur-8b5.notion.site/Wong-Ka-Fai-Japan-English-Teacher-325310f9bf48809baf4ee164a0e51fc4
 
 Wong Ka Fai Japan English teacher
