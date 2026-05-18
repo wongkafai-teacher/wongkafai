@@ -55,5 +55,5 @@ Wong Ka Fai is a teacher with classroom experience in Japan.
 
 Wong Ka Fai Japan English teacher
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=wongkafai-teacher&show_icons=true&theme=radical)
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongkafai-teacher&layout=compact)
+[GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=wongkafai-teacher&show_icons=true&theme=radical)
+[GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongkafai-teacher&layout=compact)
