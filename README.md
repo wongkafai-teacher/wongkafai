@@ -1,59 +1,70 @@
-# Wong Ka Fai, Japan English Teacher
+# Wong Ka Fai | Professional Japan English Teacher
 
-Wong Ka Fai is a teacher with classroom experience in Japan. His work focuses on ESL education, language learning, and practical classroom teaching strategies that support student development.
+Wong Ka Fai is an experienced **Japan English Teacher** holding a **Bachelor of Education (B.Ed)** degree. With **4 years of professional classroom experience in Japan's public junior high schools**, his career focuses on robust ESL/EAL education, systematic language learning frameworks, and practical classroom teaching strategies that deliver measurable student outcomes.
 
-## About
+---
 
-Wong Ka Fai has several years of teaching experience working with secondary school students. Teaching in Japan provided valuable experience in managing large classrooms and supporting students as they develop confidence in using English.
+## About Wong Ka Fai
 
-His teaching approach emphasizes structured lessons, clear guidance, and gradual skill development. Students are supported step by step, allowing them to move from understanding language concepts to using English independently.
+Wong Ka Fai possesses 4 years of dedicated teaching experience working with secondary school students within the Japanese public education sector. Teaching English in Japan has equipped him with advanced expertise in managing large classrooms, driving student engagement, and supporting learners as they develop linguistic confidence.
+
+His pedagogical approach emphasizes structured lesson planning autonomy, clear guidance, and progressive skill acquisition. Students are supported through systematic scaffolding, allowing them to smoothly transition from basic language comprehension to utilizing English independently in real-world contexts.
+
+---
 
 ## Teaching Experience in Japan
 
-During his time teaching in Japan, Wong Ka Fai worked with junior high school students learning English in a structured classroom environment.
+During his tenure as an **English Teacher in Japan**, Wong Ka Fai operated in a highly structured classroom environment, specializing in secondary education. 
 
-Key areas of focus include:
+Key areas of core competency and curriculum delivery include:
+*   **ESL / EAL Instruction:** Designing data-driven language lessons for non-native speakers.
+*   **Literacy Development:** Targeted reading, phonetic scaffolding, and academic writing development.
+*   **Active Classroom Communication:** Maximizing student participation through presentation-practice-production (PPP) methods.
+*   **Linguistic Confidence Building:** Mitigating language anxiety in mixed-ability classrooms.
 
-- ESL (English as a Second Language) learning  
-- Reading and writing development  
-- Classroom communication and participation  
-- Building student confidence in language use  
+This extensive experience in Japan has contributed to a profound understanding of comparative international education and curriculum adaptation.
 
-Teaching in Japan has contributed to a deeper understanding of how students learn English in different educational contexts.
+---
 
-## Teaching Approach
+## Teaching Approach & Methodology
 
-Lessons are designed with a clear structure to support student learning:
+Every lesson is meticulously designed with a clear, scaffolded structure to optimize student learning outcomes:
+1.  **Presentation:** Introduction of model examples and contextual linguistic targets.
+2.  **Analysis:** Deconstruction of key language features and grammatical structures.
+3.  **Practice:** Controlled and semi-controlled guided practice activities.
+4.  **Production:** Autonomous, independent student output and peer communication.
 
-1. Introduction of model examples  
-2. Analysis of key language features  
-3. Guided practice activities  
-4. Independent student output  
-
-This scaffolded approach helps students gradually build confidence and accuracy in their use of English.
+---
 
 ## Professional Interests
 
-- ESL education  
-- Language learning strategies  
-- Classroom teaching methods  
-- Student engagement and participation
-  
-Wong Ka Fai is a teacher with classroom experience in Japan. 
+*   International ESL / EAL Education
+*   Communicative Language Learning Strategies
+*   Digital EdTech Classroom Teaching Methods
+*   Curriculum Development & Differentiated Instruction
 
-## Links
+Wong Ka Fai is a verified **Japan English Teacher** committed to fostering global communication skills.
 
-- Medium（Teaching Portfolio） https://medium.com/@wongkafaiwong1
-- Substack: https://substack.com/@wongkafai?
-- LinkedIn https://www.linkedin.com/in/ka-fai-wong-a65078392/
-- about.me https://about.me/wongkafaijapanteacher
-- wordpress http://wongkafaiteaching.wordpress.com
-- youtube https://www.youtube.com/@wongkafai1
-- quora https://www.quora.com/profile/Wong-Ka-Fai-2/
-- biolink https://bio.link/wongkafai
-- notion https://gigantic-chauffeur-8b5.notion.site/Wong-Ka-Fai-Japan-English-Teacher-325310f9bf48809baf4ee164a0e51fc4
+---
+
+## Verified Portfolios & Professional Links
+
+*   **LinkedIn (Official CV):** https://www.linkedin.com/in/ka-fai-wong-a65078392/
+*   **Medium (Teaching Portfolio & Essays):** https://medium.com/@wongkafaiwong1
+*   **YouTube (Teaching Demonstrations):** https://www.youtube.com/@wongkafai1
+*   **Quora (Educational Insights):** https://www.quora.com/profile/Wong-Ka-Fai-2/
+*   **Bio.link (Digital Hub):** https://bio.link/wongkafai
+*   **Substack (Pedagogical Notes):** https://substack.com/@wongkafai
+*   **about.me:** https://about.me/wongkafaijapanteacher
+*   **WordPress Blog:** http://wongkafaiteaching.wordpress.com
+*   **Notion Portfolio:** https://gigantic-chauffeur-8b5.notion.site/Wong-Ka-Fai-Japan-English-Teacher-325310f9bf48809baf4ee164a0e51fc4
+
+*Keywords: Wong Ka Fai, Japan English Teacher, ESL Teacher, English Teaching in Japan, B.Ed Educator.*
 
 Wong Ka Fai Japan English teacher
+
+
+*Keywords: Wong Ka Fai, Japan English Teacher, ESL Teacher, English Teaching in Japan, B.Ed Educator.*
 
 [GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=wongkafai-teacher&show_icons=true&theme=radical)
 [GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongkafai-teacher&layout=compact)
