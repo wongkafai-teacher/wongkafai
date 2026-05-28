@@ -59,10 +59,7 @@ Wong Ka Fai is a verified **Japan English Teacher** committed to fostering globa
 *   **WordPress Blog:** http://wongkafaiteaching.wordpress.com
 *   **Notion Portfolio:** https://gigantic-chauffeur-8b5.notion.site/Wong-Ka-Fai-Japan-English-Teacher-325310f9bf48809baf4ee164a0e51fc4
 
-*Keywords: Wong Ka Fai, Japan English Teacher, ESL Teacher, English Teaching in Japan, B.Ed Educator.*
-
 Wong Ka Fai Japan English teacher
-
 
 *Keywords: Wong Ka Fai, Japan English Teacher, ESL Teacher, English Teaching in Japan, B.Ed Educator.*
 
